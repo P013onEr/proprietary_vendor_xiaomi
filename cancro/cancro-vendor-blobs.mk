@@ -496,4 +496,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/xiaomi/cancro/proprietary/bin/eyecare:system/bin/eyecare \
     vendor/xiaomi/cancro/proprietary/bin/adenable:system/bin/adenable \
-    vendor/xiaomi/cancro/proprietary/bin/gamutmode:system/bin/gamutmode
+    vendor/xiaomi/cancro/proprietary/bin/gamutmode:system/bin/gamutmode \
+    vendor/xiaomi/cancro/proprietary/vendor/firmware/keymaster/keymaster.b00:system/vendor/firmware/keymaster/keymaster.b00 \
+    vendor/xiaomi/cancro/proprietary/vendor/firmware/keymaster/keymaster.b01:system/vendor/firmware/keymaster/keymaster.b01 \
+    vendor/xiaomi/cancro/proprietary/vendor/firmware/keymaster/keymaster.b02:system/vendor/firmware/keymaster/keymaster.b02 \
+    vendor/xiaomi/cancro/proprietary/vendor/firmware/keymaster/keymaster.b03:system/vendor/firmware/keymaster/keymaster.b03 \
+    vendor/xiaomi/cancro/proprietary/vendor/firmware/keymaster/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt 
