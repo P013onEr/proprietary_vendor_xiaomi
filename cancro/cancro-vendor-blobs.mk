@@ -496,8 +496,4 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/xiaomi/cancro/proprietary/bin/eyecare:system/bin/eyecare \
     vendor/xiaomi/cancro/proprietary/bin/adenable:system/bin/adenable \
-    vendor/xiaomi/cancro/proprietary/bin/gamutmode:system/bin/gamutmode \
-    vendor/xiaomi/cancro/proprietary/usr/keylayout/atmel-maxtouch.kl:system/usr/keylayout/atmel-maxtouch.kl \
-    vendor/xiaomi/cancro/proprietary/usr/keylayout/gpio-keys.kl:system/usr/keylayout/gpio-keys.kl \
-    vendor/xiaomi/cancro/proprietary/usr/keylayout/msm8974-taiko-mtp-snd-card_Button_Jack.kl:system/usr/keylayout/msm8974-taiko-mtp-snd-card_Button_Jack.kl \
-    vendor/xiaomi/cancro/proprietary/usr/keylayout/synaptics_rmi4_i2c.kl:system/usr/keylayout/synaptics_rmi4_i2c.kl
+    vendor/xiaomi/cancro/proprietary/bin/gamutmode:system/bin/gamutmode
